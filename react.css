@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+ 
+}
+#shape{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    position: relative;
+
+}
+.container{
+    background-color: black;
+    min-height: 800px;
+    border: 15px;
+    border-color: white;
+}
+#heading{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding-left: 80px;    
+}
+#time{
+    color: white;
+    font-size: 150%;
+    margin-top: 5px;
+}
+#timetaken{
+    color: yellow;
+}
+.text{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding:30px ;
+       
+}
+#click{
+    font-size: 150%;
+    margin: 4px;
+    border: 3px;  
+}
